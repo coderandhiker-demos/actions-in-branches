@@ -1,2 +1,2 @@
-# actions-in-branches
-Evaluating github actions development in branches using skeleton workflows in main
+# Actions in Branches
+Evaluating github actions development in branches using skeleton workflows in main to see if it is possible to contain incremental pipeline commits to a branch and protect the main branch from all the iterative development noise for GitHub Actions. Ideally, we would then squash and merge the branch into main and have one update with all the changes to the pipeline YAML file for clarity.
